@@ -26,8 +26,8 @@ global.OwnerNumber = ["+94786254229"];   //If you want singal number so global.O
 global.ownertag = ["+94704274987"];
 global.OwnerName = "SASIYA";
 global.BotName = "SASIYA";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.packname = "🦋 𝐃𝐀𝐑𝐊 𝐒𝐀𝐒𝐈𝐘𝐀 🦋";                             //Do not change.
+global.author = "SASIYA";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
